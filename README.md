@@ -1,6 +1,6 @@
 ### 👨‍💻 Estudante de Ciência da Computação | Desenvolvedor em Formação
 
-Sou um entusiasta da tecnologia e programação, atualmente cursando o **2º período** de **Ciência da Computação**. Estou mergulhando de cabeça no mundo do desenvolvimento, focado em construir uma base sólida e explorar novas tecnologias.
+Sou entusiasta da tecnologia e programação, atualmente no 2º período de Ciência da Computação. Estou mergulhando de cabeça no mundo do desenvolvimento, focada em construir uma base sólida e explorar novas tecnologias, com interesse especial em Backend e DevOps.
 
 Estou sempre buscando desafios e aprendendo algo novo!
 
@@ -15,6 +15,7 @@ Estou focado em aprimorar minhas habilidades nas seguintes tecnologias e ferrame
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  
   
 </div>
 
