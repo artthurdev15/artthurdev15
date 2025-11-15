@@ -31,7 +31,7 @@ Estou focado em aprimorar minhas habilidades nas seguintes tecnologias e ferrame
   <a href="https://www.instagram.com/artthur.083" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/KauêArthur" target="_blank">
+  <a href="https://www.linkedin.com/in/kauê-arthur-b18118356" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
 </div>
