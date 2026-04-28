@@ -1,45 +1,43 @@
-### 👨‍💻 Estudante de Ciência da Computação | Desenvolvedor em Formação
+# Olá, eu sou o Kauê Arthur! 👋
 
-Sou entusiasta da tecnologia e programação, atualmente no 2º período de Ciência da Computação. Estou mergulhando de cabeça no mundo do desenvolvimento, focado em construir uma base sólida e explorar novas tecnologias, com interesse especial em **Backend** e **DevOps**.
+Sou estudante de **Ciência da Computação** (3º período) no Unipê e atualmente trabalho como **Estagiário de Infraestrutura na Novetech**. Sou um entusiasta por tecnologia, focado no desenvolvimento **Backend**, **Engenharia de Software** e cultura **DevOps**. 
 
-Estou sempre buscando desafios e aprendendo algo novo!
+Além de codar e otimizar infraestruturas, também sou ativo na criação de comunidades, gerenciando um servidor no Discord focado em networking e estudos para estudantes de TI.
 
----
+### 💻 Sobre Mim
+- 🎓 Cursando o 3º período de Ciência da Computação.
+- 💼 Atuando com infraestrutura, mas com os olhos e projetos voltados para a engenharia de software e arquitetura backend.
+- 🚀 Foco atual: Construção e consumo de APIs robustas e escaláveis usando **Java (Spring Boot)** e **Node.js**.
+- ☕ *Java é a minha linguagem principal e de maior foco*, mas estou sempre explorando novas ferramentas para resolver problemas reais.
 
-## 💻 Meu Arsenal Tecnológico
+### 🛠️ Minhas Habilidades & Tecnologias
 
-Estou focado em aprimorar minhas habilidades nas seguintes tecnologias. Meu objetivo é dominar os fundamentos para construir aplicações eficientes.
+Aqui estão as linguagens, frameworks e bancos de dados que fazem parte da minha stack e dos meus projetos:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br/>
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
-### 🛠️ Ferramentas & IDEs
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/GitHub_Desktop-800080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/artthurdev15">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artthurdev15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artthurdev15&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
-### 🎯 Foco Atual & Estudos:
-
-* ☕ **Java:** Minha linguagem principal no momento. Estou focado em dominar a **Programação Orientada a Objetos (POO)**, estruturas de dados e o ecossistema da JVM.
-* 🐍 **Python:** Meu "canivete suíço". Utilizo para criação de scripts, automação e desenvolvimento web ágil (Flask).
-* 🔧 **C:** Base da computação. Uso para entender gerenciamento de memória e lógica de baixo nível.
-* 🐘 **PHP & Web:** Experiência prática no desenvolvimento de sistemas web completos e integração com banco de dados.
-* 💾 **SQL:** Modelagem e consulta de bancos de dados (MySQL).
-* 🐙 **Git & GitHub:** Versionamento de código e trabalho colaborativo.
-
----
+<br/>
 
 ## 🌐 Conecte-se Comigo
 
