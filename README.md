@@ -8,7 +8,24 @@ Além de codar e otimizar infraestruturas, também sou ativo na criação de com
 - 🎓 Cursando o 3º período de Ciência da Computação.
 - 💼 Atuando com infraestrutura, mas com os olhos e projetos voltados para a engenharia de software e arquitetura backend.
 - 🚀 Foco atual: Construção e consumo de APIs robustas e escaláveis usando **Java (Spring Boot)** e **Node.js**.
-- ☕ *Java é a minha linguagem principal e de maior foco*, mas estou sempre explorando novas ferramentas para resolver problemas reais.
+- ☕ *Java é a minha linguagem principal e de maior foco*, mas estou sempre explorando novas ferramentas e tecnologias para resolver problemas reais de negócios.
+
+---
+
+### 💼 Projetos em Destaque (Impacto Real)
+
+Abaixo estão algumas soluções que desenvolvi do zero para otimizar processos internos e resolver gargalos operacionais no meu ambiente de trabalho:
+
+📦 **[Novetech - Sistema de Controle de Estoque](https://github.com/artthurdev15/projeto-estoque)** *Sistema desenvolvido para resolver a falta de controle logístico na empresa onde estagio. Ele digitaliza o fluxo de entradas e saídas, permitindo o rastreio individual de equipamentos através de números de patrimônio (PAT).*
+* **Diferenciais:** Distribuição hierárquica de ativos (Município ➡️ Unidade de Saúde), controle rígido de permissões e geração automatizada de Termos de Recebimento e relatórios em PDF.
+* **Stack:** Python, Flask, PostgreSQL, WeasyPrint, Bootstrap.
+
+🎫 **[Sistema de Chamados Técnicos](https://github.com/artthurdev15/chamados-tecnicos)** *Plataforma Full-Stack de gerenciamento de tickets de suporte criada para estruturar o fluxo de atendimento da equipe, otimizando de ponta a ponta a abertura, o acompanhamento e a resolução de incidentes de infraestrutura.*
+* **Diferenciais:** Arquitetura totalmente desacoplada e *stateless* entre cliente e servidor, controle rígido de acessos baseado em perfis (ADMINISTRADOR e TÉCNICO), interceptação automatizada e segura de tokens JWT em todas as requisições, design moderno em modo escuro com efeito *Glassmorphism*.
+* **Stack Utilizada:** * **Backend (API REST):** Java 21, Spring Boot 3.3.0, Spring Security (Autenticação JWT), Spring Data JPA (Hibernate), HikariCP, PostgreSQL, Lombok e Swagger/OpenAPI para documentação interativa.
+  * **Frontend (Interface SPA):** React, Vite, Tailwind CSS, React Router DOM (Guarda de rotas autenticadas) e Axios.
+
+---
 
 ### 🛠️ Minhas Habilidades & Tecnologias
 
@@ -24,17 +41,6 @@ Aqui estão as linguagens, frameworks e bancos de dados que fazem parte da minha
   
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/artthurdev15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artthurdev15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artthurdev15&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
 </div>
 
 <br/>
