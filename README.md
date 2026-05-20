@@ -1,8 +1,9 @@
-# Olá, eu sou o Kauê Arthur! 👋
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=120&section=header"/>
+</p>
+<h1>Kauê Arthur</h1>
+<strong><code class="inline-code">Backend Developer | Java | API | Python | C | SQL | Linux | Computer Science Student & Infrastructure Intern</code></strong><br><br>
 
-Sou estudante de **Ciência da Computação** (3º período) no Unipê e atualmente trabalho como **Estagiário de Infraestrutura na Novetech**. Sou um entusiasta por tecnologia, focado no desenvolvimento **Backend**, **Engenharia de Software** e cultura **DevOps**. 
-
-Além de codar e otimizar infraestruturas, também sou ativo na criação de comunidades, gerenciando um servidor no Discord focado em networking e estudos para estudantes de TI.
 
 ### 💻 Sobre Mim
 - 🎓 Cursando o 3º período de Ciência da Computação.
@@ -55,3 +56,15 @@ Aqui estão as linguagens, frameworks e bancos de dados que fazem parte da minha
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
 </div>
+
+<br clear="both">
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizhrx/luizhrx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizhrx/luizhrx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luizhrx/luizhrx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
